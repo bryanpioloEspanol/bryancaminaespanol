@@ -1,0 +1,7 @@
+import Numpy
+
+mat1  = np.array ([1,2,3] , [4,5,6]])
+mat2  = np.array ({1,2,3] , [3,4,5]])
+
+res = mat1 @ mat2
+print();
