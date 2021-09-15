@@ -1,0 +1,11 @@
+IMPORT numpy
+
+D1 =np.array ([1,2] ,
+              [3,4]])
+
+D2 = np.array ([1,2]),
+               ([1,2]])
+print("D1 =", d1)
+print("d2 =", d2)
+
+print("D1d2 =",np.matmul(a,b))
